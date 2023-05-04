@@ -25,6 +25,7 @@ To use your posts, you will need to create a latex project. Either install latex
 
 ### Use this tool to convert your posts
 * Open a terminal / cmd and open the project folder with the downloaded files
+* Execute ```cd src```
 * Execute ```python -m blog2journal <path>```, replace \<path> with the path to your downloaded csv.
 * Move/Upload all generated .tex files to the articles folder in your latex project and copy/paste all include commands from the includes_list.txt to your main.tex
 * You're done!
